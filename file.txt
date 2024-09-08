@@ -1,2 +1,3 @@
 This is just a text file
 Feature: new line added
+Feature: new line added 2
